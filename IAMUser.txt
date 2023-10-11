@@ -1,0 +1,27 @@
+Console sign-in URL
+
+https://315615575433.signin.aws.amazon.com/console
+User name
+
+aspuser
+Console password
+
+Sherri@01
+Hide
+
+
+Access key
+Secret access key
+
+AKIAUS7BHPWEQ6HMQ6ZU
+
+M+HGWCHp83+I1KN/iwvfI4IpG57WeZPw3NLH140x
+Hide
+
+
+Access key
+AKIAUS7BHPWEQ6HMQ6ZU
+
+Secret access key
+M+HGWCHp83+I1KN/iwvfI4IpG57WeZPw3NLH140x
+
