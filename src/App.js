@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './Asterix.bmp';
 import './App.css';
 
 function App() {
